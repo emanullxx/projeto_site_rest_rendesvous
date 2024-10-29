@@ -79,7 +79,7 @@ Indicação do País: "Brasil".
 Clone o repositório:
 
 bash
-https://github.com/leandrororiz/projeto_site_rest_rendesvous.git
+https://github.com/emanullxx/projeto_site_rest_rendesvous.git
 
 Autores
 Desenvolvido por: 
